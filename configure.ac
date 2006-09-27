@@ -3,7 +3,7 @@ dnl Process this file with autoconf to produce a configure script.
 AC_INIT(themes/import.sh)
 
 PACKAGE=emerald-themes
-VERSION=`head debian/changelog -n 1 | cut -d \( -f 2 | cut -d \) -f 1 | cut -d '-' -f 1`
+source $srcdir/../VERSION
 
 AM_INIT_AUTOMAKE($PACKAGE,$VERSION)
 
