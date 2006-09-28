@@ -3,7 +3,7 @@ dnl Process this file with autoconf to produce a configure script.
 AC_INIT(themes/import.sh)
 
 PACKAGE=emerald-themes
-source $srcdir/../VERSION
+source $srcdir/VERSION
 
 AM_INIT_AUTOMAKE($PACKAGE,$VERSION)
 
