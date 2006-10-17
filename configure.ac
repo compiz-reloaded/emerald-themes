@@ -6,6 +6,7 @@ PACKAGE=emerald-themes
 source $srcdir/VERSION
 
 AM_INIT_AUTOMAKE($PACKAGE,$VERSION)
+AC_PREFIX_DEFAULT(/usr)
 
 AC_PROG_INSTALL
 
