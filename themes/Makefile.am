@@ -1,8 +1,50 @@
 ## Process this file with automake to produce Makefile.in
 themesdir = $(datadir)/emerald/themes
-themes_DATA = *.emerald
-EXTRA_DIST = "$(themes_DATA) import.sh"
+themes_DATA = \
+    import.sh \
+    Adonis.emerald \
+    Adonis_Mod.emerald \
+    Blue_Satin.emerald \
+    ButtonLess.emerald \
+    Canopy.emerald \
+    Compiz-Gilouche.emerald \
+    Cross-Eyed-Fish.emerald \
+    Crystal-ICE.emerald \
+    euh.emerald \
+    frame.emerald \
+    funky.emerald \
+    human-ubuntulooks.emerald \
+    LimeRefresh.emerald \
+    Minimal.emerald \
+    Mirage.emerald \
+    Orangeglass.emerald \
+    Orangeglow.emerald \
+    orangelook-colonel.emerald \
+    orangelook.emerald \
+    Paper.emerald \
+    Pinx.emerald \
+    PlatinUm.emerald \
+    Red-Alice.emerald \
+    Rezlooks-Candy-1pxb.emerald \
+    Rezlooks-Candy.emerald \
+    Rezlooks-Graphite-1pxb.emerald \
+    Rezlooks-Graphite.emerald \
+    Rezlooks-PastelGreen-1pxb.emerald \
+    Rezlooks-PastelGreen.emerald \
+    Scaled_Black_Mod.emerald \
+    Sky.emerald \
+    SlateHorn_Blue.emerald \
+    SlateHorn_Green.emerald \
+    SlateHorn_Red.emerald \
+    SlateHorn_Yellow.emerald \
+    SolidSlateModified.emerald \
+    TiSkin_Classic.emerald \
+    VRunner-Quicksilver.emerald \
+    Wombat_Black.emerald \
+    Wombat_Gray.emerald
+
+EXTRA_DIST = $(themes_DATA)
 
 #install the .emerald packages properly
 install-data-hook:
-	./import.sh "$(DESTDIR)" "$(themesdir)"
+	$(srcdir)/import.sh "$(DESTDIR)" "$(themesdir)"
