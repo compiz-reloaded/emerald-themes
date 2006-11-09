@@ -1,7 +1,6 @@
 ## Process this file with automake to produce Makefile.in
 themesdir = $(datadir)/emerald/themes
 themes_DATA = \
-    import.sh \
     Adonis.emerald \
     Adonis_Mod.emerald \
     Blue_Satin.emerald \
