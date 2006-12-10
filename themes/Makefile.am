@@ -42,7 +42,7 @@ themes_DATA = \
     Wombat_Black.emerald \
     Wombat_Gray.emerald
 
-EXTRA_DIST = $(themes_DATA)
+EXTRA_DIST = $(themes_DATA) import.sh
 
 #install the .emerald packages properly
 install-data-hook:
