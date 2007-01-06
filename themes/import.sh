@@ -8,5 +8,7 @@ do
        # Unpack to DESTDIR/datadir/emerald/themes
        tar -xof ${x} -C ${emerald}
        rm -f ${x}
+	   chmod 0755 ${emerald}
+	   chmod 0644 ${emerald}/*
 done
 popd
