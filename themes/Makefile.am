@@ -5,6 +5,7 @@ themes_DATA = \
     Adonis_Mod.emerald \
     Blue_Satin.emerald \
     ButtonLess.emerald \
+    Beryl_Default.emerald \
     Canopy.emerald \
     Compiz-Gilouche.emerald \
     Cross-Eyed-Fish.emerald \
