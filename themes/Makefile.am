@@ -8,9 +8,9 @@ themes_DATA = \
     Beryl_Default.emerald \
     Canopy.emerald \
     Compiz-Gilouche.emerald \
-    Cross-Eyed-Fish.emerald \
     Crystal-ICE.emerald \
     euh.emerald \
+    Fayal.emerald \
     frame.emerald \
     funky.emerald \
     human-ubuntulooks.emerald \
