@@ -6,6 +6,7 @@ themes_DATA = \
     Blue_Satin.emerald \
     ButtonLess.emerald \
     Beryl_Default.emerald \
+	BlackLine.emerald \
     Canopy.emerald \
     Compiz-Gilouche.emerald \
     Crystal-ICE.emerald \
