@@ -15,6 +15,7 @@ themes_DATA = \
     Fogo.emerald \
     frame.emerald \
     funky.emerald \
+    gray-neu.emerald \
     human-ubuntulooks.emerald \
     LimeRefresh.emerald \
     Minimal.emerald \
