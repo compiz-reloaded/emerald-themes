@@ -12,6 +12,7 @@ themes_DATA = \
     Crystal-ICE.emerald \
     euh.emerald \
     Fayal.emerald \
+    Fogo.emerald \
     frame.emerald \
     funky.emerald \
     human-ubuntulooks.emerald \
