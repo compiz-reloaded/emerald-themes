@@ -7,7 +7,7 @@ AC_DEFINE_UNQUOTED(VERSION,"$VERSION",[Version])
 
 AC_CONFIG_AUX_DIR(config)
 
-AM_INIT_AUTOMAKE([1.9 foreign dist-xz no-dist-gzip])
+AM_INIT_AUTOMAKE([1.9 foreign dist-xz no-dist-gzip check-news])
 AC_CONFIG_HEADER([config.h])
 AM_MAINTAINER_MODE
 
