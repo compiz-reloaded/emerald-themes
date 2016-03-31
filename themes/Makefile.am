@@ -18,6 +18,7 @@ themes_DATA = \
     gray-neu.emerald \
     human-ubuntulooks.emerald \
     LimeRefresh.emerald \
+    Mavericks.emerald \
     Minimal.emerald \
     Mirage.emerald \
     Mu.emerald \
