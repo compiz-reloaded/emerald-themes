@@ -20,6 +20,7 @@ themes_DATA = \
     LimeRefresh.emerald \
     Minimal.emerald \
     Mirage.emerald \
+    Mu.emerald \
     Orangeglass.emerald \
     Orangeglow.emerald \
     orangelook-colonel.emerald \
