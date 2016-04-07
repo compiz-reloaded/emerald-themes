@@ -4,6 +4,7 @@ themes_DATA = \
     Adonis.emerald \
     Adonis_Mod.emerald \
     Ambiance.emerald \
+    Ambiance_Ubuntu.emerald \
     Blue_Planet.emerald \
     Blue_Satin.emerald \
     ButtonLess.emerald \
