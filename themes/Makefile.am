@@ -3,6 +3,7 @@ themesdir = $(datadir)/emerald/themes
 themes_DATA = \
     Adonis.emerald \
     Adonis_Mod.emerald \
+    Ambiance.emerald \
     Blue_Satin.emerald \
     ButtonLess.emerald \
     Beryl_Default.emerald \
