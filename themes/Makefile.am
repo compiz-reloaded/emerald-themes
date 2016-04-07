@@ -43,6 +43,7 @@ themes_DATA = \
     Rezlooks-PastelGreen-1pxb.emerald \
     Rezlooks-PastelGreen.emerald \
     Scaled_Black_Mod.emerald \
+    Shiki-Colors.emerald \
     Sky.emerald \
     SlateHorn_Blue.emerald \
     SlateHorn_Green.emerald \
