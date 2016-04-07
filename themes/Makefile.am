@@ -31,6 +31,7 @@ themes_DATA = \
     orangelook-colonel.emerald \
     orangelook.emerald \
     Paper.emerald \
+    PintBluemix.emerald \
     Pinx.emerald \
     PlatinUm.emerald \
     Red-Alice.emerald \
