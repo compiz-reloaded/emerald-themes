@@ -24,6 +24,7 @@ themes_DATA = \
     Minimal.emerald \
     Mirage.emerald \
     Mu.emerald \
+    Numix.emerald \
     Orangeglass.emerald \
     Orangeglow.emerald \
     orangelook-colonel.emerald \
