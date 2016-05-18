@@ -16,6 +16,7 @@ themes_DATA = \
     euh.emerald \
     Fayal.emerald \
     Fogo.emerald \
+    Fogo_Monochrome.emerald \
     frame.emerald \
     funky.emerald \
     gray-neu.emerald \
