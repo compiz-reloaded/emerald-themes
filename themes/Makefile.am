@@ -3,6 +3,8 @@ themesdir = $(datadir)/emerald/themes
 themes_DATA = \
     Adonis.emerald \
     Adonis_Mod.emerald \
+    Ambiance.emerald \
+    Ambiance_Ubuntu.emerald \
     Blue_Satin.emerald \
     ButtonLess.emerald \
     Beryl_Default.emerald \
@@ -22,11 +24,14 @@ themes_DATA = \
     Minimal.emerald \
     Mirage.emerald \
     Mu.emerald \
+    Numix.emerald \
+    Numix_Tangoish.emerald \
     Orangeglass.emerald \
     Orangeglow.emerald \
     orangelook-colonel.emerald \
     orangelook.emerald \
     Paper.emerald \
+    PintBluemix.emerald \
     Pinx.emerald \
     PlatinUm.emerald \
     Red-Alice.emerald \
@@ -37,6 +42,7 @@ themes_DATA = \
     Rezlooks-PastelGreen-1pxb.emerald \
     Rezlooks-PastelGreen.emerald \
     Scaled_Black_Mod.emerald \
+    Shiki-Colors.emerald \
     Sky.emerald \
     SlateHorn_Blue.emerald \
     SlateHorn_Green.emerald \
