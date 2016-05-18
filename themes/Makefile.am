@@ -3,10 +3,11 @@ themesdir = $(datadir)/emerald/themes
 themes_DATA = \
     Adonis.emerald \
     Adonis_Mod.emerald \
+    Blue_Planet.emerald \
     Blue_Satin.emerald \
     ButtonLess.emerald \
     Beryl_Default.emerald \
-	BlackLine.emerald \
+    BlackLine.emerald \
     Canopy.emerald \
     Compiz-Gilouche.emerald \
     Crystal-ICE.emerald \
