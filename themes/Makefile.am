@@ -7,6 +7,7 @@ themes_DATA = \
     Ambiance_Ubuntu.emerald \
     Blue_Planet.emerald \
     Blue_Satin.emerald \
+    Blue_Submarine.emerald \
     ButtonLess.emerald \
     Beryl_Default.emerald \
     BlackLine.emerald \
@@ -20,9 +21,11 @@ themes_DATA = \
     frame.emerald \
     funky.emerald \
     gray-neu.emerald \
+    Green_Submarine.emerald \
     human-ubuntulooks.emerald \
     LimeRefresh.emerald \
     Mavericks.emerald \
+    Menta.emerald \
     Minimal.emerald \
     Mirage.emerald \
     Mu.emerald \
