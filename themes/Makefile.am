@@ -72,7 +72,8 @@ themes_DATA = \
     TiSkin_Classic.emerald \
     VRunner-Quicksilver.emerald \
     Wombat_Black.emerald \
-    Wombat_Gray.emerald
+    Wombat_Gray.emerald \
+    Yosemite.emerald
 
 EXTRA_DIST = $(themes_DATA) import.sh
 
