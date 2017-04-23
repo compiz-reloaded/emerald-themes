@@ -73,6 +73,7 @@ themes_DATA = \
     VRunner-Quicksilver.emerald \
     Wombat_Black.emerald \
     Wombat_Gray.emerald \
+    Wreathe.emerald \
     Yosemite.emerald \
     Yosemite_Graphite.emerald
 
