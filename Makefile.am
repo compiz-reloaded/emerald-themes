@@ -5,6 +5,7 @@ distuninstallcheck:
 
 EXTRA_DIST =		\
 	COPYING		\
+	COPYING.GPL3	\
 	NEWS		\
 	README.md	\
 	VERSION		\
