@@ -71,6 +71,7 @@ themes_DATA = \
     Starwindowtheme.emerald \
     TiSkin_Classic.emerald \
     VRunner-Quicksilver.emerald \
+    white.emerald \
     Wombat_Black.emerald \
     Wombat_Gray.emerald \
     Wreathe.emerald \
