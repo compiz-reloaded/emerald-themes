@@ -11,5 +11,6 @@ ls | sed '/\.emerald$/!d' | while read f; do
     rm -f "$f"
     chmod 0755 "$theme/"
     chmod 0644 "$theme/"*
+    chmod 0755 "$theme/dark"
 done
 cd "$OLDPWD"
